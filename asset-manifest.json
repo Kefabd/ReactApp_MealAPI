@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ReactApp_MealAPI/static/css/main.02ac2582.css",
+    "main.js": "/ReactApp_MealAPI/static/js/main.205df07a.js",
+    "static/js/787.3407de02.chunk.js": "/ReactApp_MealAPI/static/js/787.3407de02.chunk.js",
+    "static/media/background.jpg": "/ReactApp_MealAPI/static/media/background.b8e175482db792e8c6b5.jpg",
+    "static/media/logo2.png": "/ReactApp_MealAPI/static/media/logo2.6d54d7985f99f7d9438b.png",
+    "index.html": "/ReactApp_MealAPI/index.html",
+    "main.02ac2582.css.map": "/ReactApp_MealAPI/static/css/main.02ac2582.css.map",
+    "main.205df07a.js.map": "/ReactApp_MealAPI/static/js/main.205df07a.js.map",
+    "787.3407de02.chunk.js.map": "/ReactApp_MealAPI/static/js/787.3407de02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02ac2582.css",
+    "static/js/main.205df07a.js"
+  ]
+}
